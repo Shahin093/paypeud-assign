@@ -1,0 +1,91 @@
+.do-text {
+    width: 332px;
+    height: 64px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: -0.01em;
+    text-transform: capitalize;
+}
+
+.opening-div {
+    text-align: center;
+    border: 2px solid #E3EEF0;
+    border-radius: 355px;
+    box-sizing: border-box;
+    width: 1302px;
+    height: 700px;
+    top: 10px;
+}
+
+.middle-div {
+    width: 1156px;
+    /* height: 710px; */
+    height: 600px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 150px rgba(198, 225, 230, 0.25);
+    border-radius: 355px;
+    /* width: 584px;
+    height: 710px; */
+    padding: 20px;
+
+}
+
+.text {
+    margin-top: 30px;
+    width: 510px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    height: 488px;
+    /* height: 500px; */
+    border: 6px dashed #008C96;
+    border-radius: 355px;
+    /* box-sizing: border-box; */
+}
+
+.tripple-div {
+    background: #FFFFFF;
+    /* width: 300px;
+    height: 214px; */
+    margin-top: -30px;
+    border: 4px solid #D9F3F4;
+    border-radius: 355px;
+    /* box-sizing: border-box; */
+    /* padding: 10px; */
+    /* width: 500px;
+    height: 280px; */
+
+}
+
+
+.crm {
+    margin-top: -70px;
+    /* margin-left: 20px; */
+
+}
+
+.crm-double {
+    /* margin-top: 20px;
+    margin-left: 40px; */
+}
+
+#same {
+    margin-top: 50px;
+    /* margin-left: 10px; */
+}
+
+#same-id {
+    margin-top: 50px;
+}
+
+#same-double {
+    /* margin-top: -50px;
+    margin-left: 30px; */
+}
+
+.mls {
+    /* margin-left: 50px; */
+}
